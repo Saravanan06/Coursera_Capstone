@@ -1,2 +1,3 @@
 # Cousera_Capstone
-The Repository for Datascience Capstone project
+The Repository for Coursera IBM Datascience Capstone project.
+
